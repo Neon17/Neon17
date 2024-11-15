@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neon17
-- 👀 I’m interested in website designing and software development especially game.
-- 🌱 I’m currently learning C++, HTML5, CSS3
+- 👀 I’m interested in problem solving
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
