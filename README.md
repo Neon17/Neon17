@@ -1,12 +1,31 @@
-<img align="right" src="https://visitcount.itsvg.in/api?id=Neon17&icon=5&color=1" />
+# Hi there 👋, I'm Neon Neupane
 
-- 👋 Hi, I’m @Neon17
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Welcome to my GitHub profile!  
 
-<!---
-Neon17/Neon17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a software enthusiast diving deeper into Python and advanced Laravel concepts, with web‑dev experience (MERN, Next.js, Laravel) and an earlier background in Java desktop apps.
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Neon17)
+
+## 🔭 What I’m working on
+- Improving my Python skills with projects and challenges.
+- Building a Handwriting Imitation AI.
+- Solving problems on HackerRank and LeetCode.
+
+## 🌱 What I’m learning
+- Advanced Laravel concepts.
+- Python Intermediate
+- Machine Learning fundamentals.
+
+## 💻 Skills & Technologies
+- Languages: JavaScript, Python, Java, PHP
+- Frameworks/Libraries: React, Next.js, NestJS, Laravel, Livewire
+- Databases: MongoDB (Mongoose), PostgreSQL (Prisma)
+- Tools: Git, VS Code
+
+## 📫 How to reach me
+- Email: neon.neupane.9@gmail.com
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/neon-neupane-049465235/)
+- Twitter: [My Twitter](https://x.com/neonneupane9)
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate.
+
