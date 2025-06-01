@@ -8,12 +8,12 @@ I’m a software enthusiast diving deeper into Python and advanced Laravel conce
 
 ## 🔭 What I’m working on
 - Improving my Python skills with projects and challenges.
-- Building a Handwriting Imitation AI.
+- Building a Smart Blood Bank with Laravel and Next.js
 - Solving problems on HackerRank and LeetCode.
 
 ## 🌱 What I’m learning
 - Advanced Laravel concepts.
-- Python Intermediate
+- Python
 - Machine Learning fundamentals.
 
 ## 💻 Skills & Technologies
