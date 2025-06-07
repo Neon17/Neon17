@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!  
 
-I’m a software enthusiast diving deeper into Python and advanced Laravel concepts, with web‑dev experience (MERN, Next.js, Laravel) and an earlier background in Java desktop apps.
+I’m a software enthusiast diving deeper into Next.js and advanced Laravel concepts, with web‑dev experience (MERN, Laravel) and an earlier background in Java desktop apps.
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Neon17)
 
