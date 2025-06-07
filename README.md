@@ -7,19 +7,19 @@ I’m a software enthusiast diving deeper into Python and advanced Laravel conce
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Neon17)
 
 ## 🔭 What I’m working on
-- Improving my Python skills with projects and challenges.
-- Building a Smart Blood Bank with Laravel and Next.js
+- Improving my Next.js skills with projects and challenges.
+- Building a Blood Bank with Laravel and Next.js
 - Solving problems on HackerRank and LeetCode.
 
 ## 🌱 What I’m learning
 - Advanced Laravel concepts.
-- Python
-- Machine Learning fundamentals.
+- Next.js
+- Software Engineering
 
 ## 💻 Skills & Technologies
-- Languages: JavaScript, Python, Java, PHP
+- Languages: JavaScript, PHP
 - Frameworks/Libraries: React, Next.js, NestJS, Laravel, Livewire
-- Databases: MongoDB (Mongoose), PostgreSQL (Prisma)
+- Databases: MongoDB (Mongoose), PostgreSQL (Prisma), MySQL
 - Tools: Git, VS Code
 
 ## 📫 How to reach me
